@@ -21,5 +21,5 @@ Velopert 블로그를 참고하여 클론코딩한 todolist 웹<br>
 * const [state, dispatch] = useReducer(reducer, initialState) 형태는 state는 컴포넌트가 사용할수있는 상태, dispatch는 액션을 발생시키는 함수.<br> 
 * context.provider는 context변경사항을 자손에게 전달하는 역할 
 <br><br><br><br><br><br>
-# 반성
+# 반성<br>
 * context, reducer, dispatch 사용법을 제대로 숙지하지못한것. 독자적으로 게시판 만들기를 통해 제대로 연습해야겠음.
