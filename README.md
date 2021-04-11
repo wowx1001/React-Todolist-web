@@ -23,4 +23,4 @@ Velopert 블로그를 참고하여 클론코딩한 todolist 웹<br>
 <br><br><br><br><br><br>
 
 # 반성
-* context, reducer, dispatch 사용법을 제대로 숙지하지못한것. 독자적으로 게시판 만들기를 통해 제대로 연습해야겠음.
+* context, reducer, dispatch 사용법을 제대로 숙지하지못한것.
