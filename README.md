@@ -1,5 +1,5 @@
 # React-Todolist-web(공부용)
-Velopert 블로그를 참고하여 클론코딩한 todolist 웹<br>
+Velopert 블로그를 참고한 todolist 웹<br>
 접속주소 : https://wowx1001.github.io/React-Todolist-web
 <br><br><br><br><br><br>
 # 개념 숙지
